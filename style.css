@@ -19,6 +19,8 @@ height: 60px;
 background-color: rgb(36, 37, 42);
 margin: 30px;
 color: white;
+font-family:sans-serif;
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 
 }
 
@@ -27,6 +29,7 @@ color: white;
 float: left;
 margin-left: 90px;
 margin-top: 20px;
+font-size: 12px;
 
 
 }
