@@ -37,3 +37,8 @@ float:right;
 margin-right: 75px;
 
 }
+
+.clear
+{
+  clear:both;  
+}
